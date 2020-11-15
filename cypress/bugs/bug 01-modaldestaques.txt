@@ -1,0 +1,4 @@
+Titulo: Modal de destaques estão com padrões diferentes na telas de buscas
+Descrição: Na Home e Todos os cursos o modal de destaques está destacado entre o header e os cards de cursos, mas no outros filtros é exibbido como uma lista.
+Browser: Chrome 86 - resolução 1280 x 768
+Imagens: bug 01 - Destaques
